@@ -98,9 +98,9 @@ The Vite Chat Application is open-source and distributed under the [MIT License]
 
 ## Contact
 
-If you have any questions or need further assistance, feel free to contact us at vitechat@example.com.
+If you have any questions or need further assistance, feel free to contact me at [link_to_website] (https://jrhunor.com)
 
 Let's build a more interactive and engaging chatting experience together! Happy Chatting! 🎉
 
 
-[link_to_repository]: https://github.com/username/vite-chat-application
+[link_to_repository]: (https://github.com/rhunor/chapapp_openAI.git)https://github.com/rhunor/chapapp_openAI.git
